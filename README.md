@@ -1,2 +1,2 @@
 # bookAPlace
-Books a place
+A web application to book seats in a study room
